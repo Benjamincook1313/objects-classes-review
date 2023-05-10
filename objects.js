@@ -33,6 +33,5 @@ person.isMarried = false;
 // remove key value pair
 delete person.age;
 
-
 console.log(person);
 // console.log(person.shoppingList[3]);
